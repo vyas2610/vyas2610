@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Vyas
 - 👀 I’m interested in Website Development as well as Digital Marketing
-- 🌱 I’m currently learning Laravel as a full stack dweveloper
+- 🌱 I’m currently learning Laravel as a full stack dweveloper from Rudraksha tech togeather working post as  assitant professor(IT) at Lucky Institute Of Professional    Studies , Jodhpur (Raj)
 - 📫 Mail id : deepakvyas261092@gmail.com 
 
 <!---
